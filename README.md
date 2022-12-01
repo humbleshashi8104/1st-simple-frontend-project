@@ -1,1 +1,1 @@
-# 1st-simple-frontend-project
+# 1st-simple-HTML,CSS-project
